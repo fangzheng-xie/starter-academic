@@ -16,7 +16,7 @@ url_source: ""
 url_video: ""
 publication: Journal of the American Statistical Association
 featured: true
-date: 2013-07-01T00:00:00.000Z
+date: 2020-05-13T20:51:00.000Z
 url_slides: ""
 title: Bayesian Projected Calibration of Computer Models
 tags: []
