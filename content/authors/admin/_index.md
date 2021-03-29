@@ -28,15 +28,15 @@ organizations:
     url: https://www.indiana.edu/
 education:
   courses:
-    - course: PhD in Applied Mathematics and Statistics
+    - course: PhD in Applied Mathematics and Statistics, 2020
       institution: Johns Hopkins University
-      year: 2020
-    - course: MA in Applied Mathematics and Statistics
+      year: ""
+    - course: MA in Applied Mathematics and Statistics, 2016
       institution: Johns Hopkins University
-      year: 2014
-    - course: BSc in Mathematics and Applied Mathematics
+      year: ""
+    - course: BSc in Mathematics and Applied Mathematics, 2014
       institution: South China University of Technology
-      year: 2010
+      year: ""
 email: ""
 superuser: true
 highlight_name: false
