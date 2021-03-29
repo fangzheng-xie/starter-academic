@@ -23,6 +23,11 @@ social:
     link: https://orcid.org/0000-0003-2436-9542
     icon_pack: ai
     icon: orcid
+  - display:
+      header: false
+    link: https://www.researchgate.net/profile/Fangzheng-Xie
+    icon_pack: ai
+    icon: researchgate
 organizations:
   - name: Indiana University
     url: https://www.indiana.edu/
