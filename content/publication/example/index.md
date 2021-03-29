@@ -20,7 +20,7 @@ abstract: "We develop a Bayesian approach called the Bayesian projected
 slides: ""
 url_pdf: ""
 publication_types:
-  - "1"
+  - "2"
 authors:
   - Fangzheng Xie
   - Yanxun Xu
@@ -37,7 +37,7 @@ publication: Journal of the American Statistical Association
 featured: true
 date: 2013-07-01T00:00:00Z
 url_slides: ""
-title: An example conference paper
+title: Bayesian Projected Calibration of Computer Models
 tags: []
 projects: []
 image:
@@ -47,7 +47,7 @@ image:
 publishDate: 2017-01-01T00:00:00Z
 url_poster: ""
 url_code: ""
-doi: ""
+doi: https://doi.org/10.1080/01621459.2020.1753519
 ---
 
 {{% callout note %}}
