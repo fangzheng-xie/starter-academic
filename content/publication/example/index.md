@@ -1,22 +1,5 @@
 ---
-abstract: "We develop a Bayesian approach called the Bayesian projected
-  calibration to address the problem of calibrating an imperfect computer model
-  using observational data from an unknown complex physical system. The
-  calibration parameter and the physical system are parameterized in an
-  identifiable fashion via the L2-projection. The physical system is imposed a
-  Gaussian process prior distribution, which naturally induces a prior
-  distribution on the calibration parameter through the L2-projection
-  constraint. The calibration parameter is estimated through its posterior
-  distribution, serving as a natural and nonasymptotic approach for the
-  uncertainty quantification. We provide rigorous large sample justifications of
-  the proposed approach by establishing the asymptotic normality of the
-  posterior of the calibration parameter with the efficient covariance matrix.
-  In addition to the theoretical analysis, two convenient computational
-  algorithms based on stochastic approximation are designed with strong
-  theoretical support. Through extensive simulation studies and the analyses of
-  two real-world datasets, we show that the proposed Bayesian projected
-  calibration can accurately estimate the calibration parameters, calibrate the
-  computer models well, and compare favorably to alternative approaches. "
+abstract: ""
 slides: ""
 url_pdf: ""
 publication_types:
