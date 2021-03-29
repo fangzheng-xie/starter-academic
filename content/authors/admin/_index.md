@@ -1,12 +1,11 @@
 ---
 title: Fangzheng Xie
 role: Assistant Professor of Statistics
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - High-dimensional Statistics
+  - Bayesian Statistics
+  - Network Analysis
 social:
   - icon: envelope
     icon_pack: fas
