@@ -10,7 +10,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: fxie@iu.edu
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -20,19 +20,19 @@ social:
     icon_pack: ai
     icon: google-scholar
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Indiana University
+    url: https://www.indiana.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Applied Mathematics and Statistics
+      institution: Johns Hopkins University
+      year: 2020
+    - course: MA in Applied Mathematics and Statistics
+      institution: Johns Hopkins University
+      year: 2014
+    - course: BSc in Mathematics and Applied Mathematics
+      institution: South China University of Technology
+      year: 2010
 email: ""
 superuser: true
 highlight_name: false
