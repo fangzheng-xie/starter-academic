@@ -12,7 +12,7 @@ social:
     link: https://arxiv.org/a/xie_f_1.html
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/fangzheng-xie-710b58b1/
   - display:
       header: false
     link: https://scholar.google.com/citations?user=gNj7MAIAAAAJ&hl=en
